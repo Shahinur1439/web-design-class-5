@@ -1,0 +1,95 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.no1{
+    width: 49%;
+    height: 500px;
+    background-color: red;
+    float: left;
+    margin:5px;
+    background-image:url(p1.jpg);
+    background-repeat: no-repeat;
+    background-size: 669px 500px;
+    
+}
+.no1 h2{
+    margin-top: 370px;
+    color: cornsilk;
+    padding-left: 5px;
+}
+.no1 h5{
+    color:rgb(251, 251, 253);
+    padding-left: 5px;
+}
+.no2{
+    width: 49%;
+    height: 500px;
+    background-color: rgb(9, 255, 0);
+    float: left;
+    margin:5px;
+}
+.no2 .a1{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(197, 60, 60);
+    margin-top: 4px;
+    
+}
+.no2 .a2{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(109, 104, 104);
+    margin-top: 4px;
+    
+}
+.no2 .a3{
+    height: 120px;
+    width: 100%;
+    background-color:rgb(146, 146, 224);
+    margin-top: 4px;
+    
+}
+.no2 .a4{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(39, 193, 231);
+    margin-top: 4px;
+    
+}
+
+.no2 .a1 .aa1 img{
+   margin: 3px 3px 3px 4px;
+   float: left;
+   
+}
+ .no2 .a1 .aaa1 h5{
+    padding-top: 7px;
+ }
+
+ .no2 .a2 .aa2 img{
+    margin: 3px 3px 3px 4px;
+    float: left;
+    
+ }
+ .no2 .a2 .aaa2 h5{
+    padding-top: 7px;
+ }
+ .no2 .a3 .aa3 img{
+    margin: 3px 3px 3px 4px;
+    float: left;
+    
+ }
+ .no2 .a3 .aaa3 h5{
+    padding-top: 7px;
+ }
+
+ .no2 .a4 .aa4 img{
+    margin: 3px 3px 3px 4px;
+    float: left;
+    
+ }
+ .no2 .a4 .aaa4 h5{
+    padding-top: 7px;
+ }
+ 
